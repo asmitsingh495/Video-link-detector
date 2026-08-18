@@ -10,6 +10,7 @@ For users who have permission to download publicly accessible media, detected UR
 This project does not bypass DRM, decrypt protected streams, remove content protection, or provide access to restricted media. Users are responsible for respecting copyright, website terms, and applicable laws.
 
 Video Link Detector is intended for educational, development, testing, and legitimate media inspection purposes.
+<img width="466" height="651" alt="Screenshot from 2026-08-18 10-21-10" src="https://github.com/user-attachments/assets/50028913-2b80-41d1-b69d-77bdf661f058" />
 
 
 # Chrome Extension Usage
@@ -21,7 +22,8 @@ Users can copy a detected URL from the popup and use it for legitimate testing, 
 
 The extension does not guarantee detection of every video because some websites use dynamically generated URLs, custom media delivery systems, signed requests, or protected streaming. DRM-protected or encrypted content is not bypassed or decrypted by this extension.
 
-Always ensure you have permission to access, copy, or download media and follow the website's terms and applicable laws.
+Always ensure you have permission to access, copy, or download media and follow the website's terms and applicable laws.<img width="466" height="651" alt="Screenshot from 2026-08-18 10-20-36" src="https://github.com/user-attachments/assets/50be8ccb-d763-4e3f-9c5a-4b9d5259a1b1" />
+
 
 # Apply in chrome extension
 1. Download the Video Link Detector ZIP file from this GitHub repository.
@@ -36,18 +38,25 @@ Always ensure you have permission to access, copy, or download media and follow 
 4. Enter the following address in the Chrome address bar:
 
    chrome://extensions/
+   <img width="259" height="52" alt="Screenshot from 2026-08-18 10-21-42" src="https://github.com/user-attachments/assets/03924f44-6919-4162-81b1-74175ec6741a" />
 
-5. Enable Developer mode from the top-right corner.
+6. Enable Developer mode from the top-right corner.
 
-6. Click the Load unpacked button.
+<img width="259" height="52" alt="Screenshot from 2026-08-18 10-21-42" src="https://github.com/user-attachments/assets/6dd5f0c5-7afd-4c93-b46e-94d5d0dc9926" />
 
-7. Select the extracted Video Link Detector folder.
+7. Click the Load unpacked button.
 
-8. Chrome will load the extension.
+<img width="454" height="147" alt="Screenshot from 2026-08-18 10-21-50" src="https://github.com/user-attachments/assets/34f5f2bb-3dc1-4609-bce8-b3babe1fd96a" />
 
-9. Pin the Video Link Detector extension from the Extensions menu if you want quick access.
+8. Select the extracted Video Link Detector folder.
+<img width="803" height="1015" alt="Screenshot from 2026-08-18 10-22-06" src="https://github.com/user-attachments/assets/b2b3c334-b165-4203-b09c-9ff04c3b427f" />
 
-10. Open a supported website or test environment, play the media, and click the Video Link Detector icon to view detected links.
+9. Chrome will load the extension.
+<img width="574" height="328" alt="Screenshot from 2026-08-18 10-22-13" src="https://github.com/user-attachments/assets/d2682884-dd48-47c6-a2bc-33b400ee01fd" />
+
+10. Pin the Video Link Detector extension from the Extensions menu if you want quick access.
+
+11. Open a supported website or test environment, play the media, and click the Video Link Detector icon to view detected links.
 
 
 # 📥 Install yt-dlp
