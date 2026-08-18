@@ -23,6 +23,32 @@ The extension does not guarantee detection of every video because some websites 
 
 Always ensure you have permission to access, copy, or download media and follow the website's terms and applicable laws.
 
+# Apply in chrome extension
+1. Download the Video Link Detector ZIP file from this GitHub repository.
+
+2. Extract/Unzip the downloaded ZIP file.
+
+   Important: Do not select the ZIP file directly in Chrome.
+   First, extract it into a normal folder.
+
+3. Open Google Chrome.
+
+4. Enter the following address in the Chrome address bar:
+
+   chrome://extensions/
+
+5. Enable Developer mode from the top-right corner.
+
+6. Click the Load unpacked button.
+
+7. Select the extracted Video Link Detector folder.
+
+8. Chrome will load the extension.
+
+9. Pin the Video Link Detector extension from the Extensions menu if you want quick access.
+
+10. Open a supported website or test environment, play the media, and click the Video Link Detector icon to view detected links.
+
 
 # 📥 Install yt-dlp
 🐧 Linux
