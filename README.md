@@ -108,25 +108,15 @@ yt-dlp -P "$HOME\Downloads" "VIDEO_URL"
 📌 Simple flow
 
 Open Video Website
-
-       ↓
-       
+       ↓       
 Play Video
-
-       ↓
-       
+       ↓       
 Video Link Detector
-
-       ↓
-       
+       ↓       
 Copy detected URL
-
-       ↓
-       
+       ↓       
 yt-dlp "VIDEO_URL"
-
-       ↓
-       
+       ↓    
 Video downloads to current folder
 
 
