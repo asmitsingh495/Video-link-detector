@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Video Link Detector",
+  "version": "1.0.0",
+  "description": "Detects direct video and stream URLs on the current tab.",
+  "permissions": [
+    "webRequest",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Video Link Detector",
+    "default_popup": "popup.html"
+  }
+}
