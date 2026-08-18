@@ -10,6 +10,7 @@ For users who have permission to download publicly accessible media, detected UR
 This project does not bypass DRM, decrypt protected streams, remove content protection, or provide access to restricted media. Users are responsible for respecting copyright, website terms, and applicable laws.
 
 Video Link Detector is intended for educational, development, testing, and legitimate media inspection purposes.
+
 <img width="466" height="651" alt="Screenshot from 2026-08-18 10-21-10" src="https://github.com/user-attachments/assets/50028913-2b80-41d1-b69d-77bdf661f058" />
 
 
@@ -22,7 +23,9 @@ Users can copy a detected URL from the popup and use it for legitimate testing, 
 
 The extension does not guarantee detection of every video because some websites use dynamically generated URLs, custom media delivery systems, signed requests, or protected streaming. DRM-protected or encrypted content is not bypassed or decrypted by this extension.
 
-Always ensure you have permission to access, copy, or download media and follow the website's terms and applicable laws.<img width="466" height="651" alt="Screenshot from 2026-08-18 10-20-36" src="https://github.com/user-attachments/assets/50be8ccb-d763-4e3f-9c5a-4b9d5259a1b1" />
+Always ensure you have permission to access, copy, or download media and follow the website's terms and applicable laws.
+
+<img width="466" height="651" alt="Screenshot from 2026-08-18 10-20-36" src="https://github.com/user-attachments/assets/50be8ccb-d763-4e3f-9c5a-4b9d5259a1b1" />
 
 
 # Apply in chrome extension
@@ -38,7 +41,10 @@ Always ensure you have permission to access, copy, or download media and follow 
 4. Enter the following address in the Chrome address bar:
 
    chrome://extensions/
-   <img width="259" height="52" alt="Screenshot from 2026-08-18 10-21-42" src="https://github.com/user-attachments/assets/03924f44-6919-4162-81b1-74175ec6741a" />
+
+<img width="379" height="61" alt="Screenshot from 2026-08-18 10-21-37" src="https://github.com/user-attachments/assets/a9b0ab41-8621-4071-80e9-04f4c5516fd6" />
+
+
 
 6. Enable Developer mode from the top-right corner.
 
@@ -134,3 +140,6 @@ Ya:
 yt-dlp -P "YOUR_FOLDER_PATH" "VIDEO_URL"
        ↓
 Video downloads to your selected folder
+
+# Author
+Asmit singh
