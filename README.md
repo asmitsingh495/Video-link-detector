@@ -65,6 +65,7 @@ sudo apt install yt-dlp
 Check installation:
 
 yt-dlp --version
+
 🪟 Windows 
 
 winget install yt-dlp.yt-dlp
@@ -72,7 +73,8 @@ winget install yt-dlp.yt-dlp
 # Command Prompt/PowerShell me check:
 
 yt-dlp --version
-🎬 Video Download
+
+# 🎬 Video Download
 
 Extension se detected link copy karo.
 
